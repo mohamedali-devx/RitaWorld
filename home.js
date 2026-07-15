@@ -217,8 +217,8 @@ function showOutfit(e) {
         }
 
         card.style.cssText = `
-            width: 100px;
-            height: 100px;
+            width: 240px;
+            height: 320px;
         `;
         card.firstElementChild.style.cssText = `width: auto`;
     });
@@ -274,8 +274,8 @@ function randomOutfit(e) {
     if (randomRasProduct) {
         ras.childNodes[1].innerHTML = `
             <div style="text-align:center;margin-bottom:-15px;">Head</div>
-            <div class="image" style="width:100px;height:100px;">
-                <img src="${randomRasProduct.image}" width="100">
+            <div class="image" style="width:240px;height:320px;">
+                <img src="${randomRasProduct.image}" width="240">
             </div>
         `;
     }
@@ -283,8 +283,8 @@ function randomOutfit(e) {
     if (randomChestProduct) {
         chest.childNodes[1].innerHTML = `
             <div style="text-align:center;margin-bottom:-15px;">Chest</div>
-            <div class="image" style="width:100px;height:100px;">
-                <img src="${randomChestProduct.image}" width="100">
+            <div class="image" style="width:240px;height:320px;">
+                <img src="${randomChestProduct.image}" width="240">
             </div>
         `;
     }
@@ -292,8 +292,8 @@ function randomOutfit(e) {
     if (randomLegsProduct) {
         legs.childNodes[1].innerHTML = `
             <div style="text-align:center;margin-bottom:-15px;">Legs</div>
-            <div class="image" style="width:100px;height:100px;">
-                <img src="${randomLegsProduct.image}" width="100">
+            <div class="image" style="width:240px;height:320px;">
+                <img src="${randomLegsProduct.image}" width="240">
             </div>
         `;
     }
@@ -301,8 +301,8 @@ function randomOutfit(e) {
     if (randomFeetProduct) {
         feet.childNodes[1].innerHTML = `
             <div style="text-align:center;margin-bottom:-15px;">Feet</div>
-            <div class="image" style="width:100px;height:100px;">
-                <img src="${randomFeetProduct.image}" width="100">
+            <div class="image" style="width:240px;height:320px;">
+                <img src="${randomFeetProduct.image}" width="240">
             </div>
         `;
     }
