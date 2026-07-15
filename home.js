@@ -100,16 +100,16 @@ function addCardEvents() {
 
             // Add to outfit
             if (product.place === "ras") {
-                ras.childNodes[1].innerHTML = `<div style="text-align: center; margin-bottom: -15px;">head</div><div class="image" style="width: 240px; height: 320px;"><img src="${product.image}" width="100"></div>`;
+                ras.childNodes[1].innerHTML = `<div style="text-align: center; margin-bottom: -15px;">head</div><div class="image" style="width: 240px; height: 320px;"><img src="${product.image}" width="auto"></div>`;
             }
             if (product.place === "chest") {
-                chest.childNodes[1].innerHTML = `<div style="text-align: center; margin-bottom: -15px;">chest</div><div class="image" style="width: 240px; height: 320px;"><img src="${product.image}" width="100"></div>`;
+                chest.childNodes[1].innerHTML = `<div style="text-align: center; margin-bottom: -15px;">chest</div><div class="image" style="width: 240px; height: 320px;"><img src="${product.image}" width="auto"></div>`;
             }
             if (product.place === "legs") {
-                legs.childNodes[1].innerHTML = `<div style="text-align: center; margin-bottom: -15px;">legs</div><div class="image" style="width: 240px; height: 320px;"><img src="${product.image}" width="100"></div>`;
+                legs.childNodes[1].innerHTML = `<div style="text-align: center; margin-bottom: -15px;">legs</div><div class="image" style="width: 240px; height: 320px;"><img src="${product.image}" width="auto"></div>`;
             }
             if (product.place === "feet") {
-                feet.childNodes[1].innerHTML = `<div style="text-align: center; margin-bottom: -15px;">feet</div><div class="image" style="width: 240px; height: 320px;"><img src="${product.image}" width="100"></div>`;
+                feet.childNodes[1].innerHTML = `<div style="text-align: center; margin-bottom: -15px;">feet</div><div class="image" style="width: 240px; height: 320px;"><img src="${product.image}" width="auto"></div>`;
             }
 
         });
