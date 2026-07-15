@@ -104,8 +104,8 @@ main {
 .pos {
     position: relative;
 
-    width: 120px;
-    height: 150px;
+    width: 240px;
+    height: 320px;
 
     display: flex;
     flex-direction: column;
