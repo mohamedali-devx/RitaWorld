@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Zamalek Jersey",
+        "description": "Home Match Jersey",
+        "image": "media/images/zamalekTshirt.png",
+        "type": "T-Shirt",
+        "place": "chest",
+        "id": 1
+    },
+    {
+        "name": "Dress See Through",
+        "description": "dress see through",
+        "image": "media/images/dress-see-through-clothing-dress-1a7ef4f1fc3f733e1357c70a460f2a8b.png",
+        "type": "Dress",
+        "place": "chest",
+        "id": 2
+    },
+    {
+        "name": "Jeans Trousers",
+        "description": "jeans trousers clothing",
+        "image": "media/images/jeans-trousers-clothing-denim-jeans-bdc06de5e8a03085ffd93bb0794c7d41.png",
+        "type": "Pants",
+        "place": "legs",
+        "id": 3
+    },
+    {
+        "name": "Long Sleeved",
+        "description": "long sleeved t shirt amazon",
+        "image": "media/images/long-sleeved-t-shirt-amazon-com-raglan-sleeve-handphone-28b270909eb6ec8cdd7edc5d59afbaf1.png",
+        "type": "Long-Sleeved",
+        "place": "chest",
+        "id": 4
+    },
+    {
+        "name": "Pink Skirt",
+        "description": "poodle-skirt-pink-clothing",
+        "image": "media/images/poodle-skirt-pink-clothing-denim-skirt-dress-143204c74edc890070541defa2bf5b71.png",
+        "type": "Skirt",
+        "place": "legs",
+        "id": 5
+    },
+    {
+        "name": "Pink T-Shirt",
+        "description": "printed-t-shirt-gildan-activewear",
+        "image": "media/images/printed-t-shirt-gildan-activewear-sleeve-pink-tshirt-1b3748e27c40c38ceaad57d5ee1f5397.png",
+        "type": "T-Shirt",
+        "place": "chest",
+        "id": 6
+    },
+    {
+        "name": "Green T-Shirt",
+        "description": "t-shirt-gildan-activewear",
+        "image": "media/images/t-shirt-gildan-activewear-crew-neck-sleeve-t-shirts-6e443f6e5115062aeb2a42f4c84544ed.png",
+        "type": "T-Shirt",
+        "place": "chest",
+        "id": 7
+    },
+    {
+        "name": "Mony's T-Shirt",
+        "description": "A cool black T-shirt",
+        "image": "media/images/t-shirt-sleeve-top-clothing-t-shirts-ad387a71309646d6a0acc548ade7b26c.png",
+        "type": "T-Shirt",
+        "place": "chest",
+        "id": 8
+    },
+    {
+        "name": "Jeans",
+        "description": "mom-jeans-denim",
+        "image": "media/images/topshop-mom-jeans-denim-slim-fit-pants-jeans-5d3cb9f686c562b719b584853210dab5.png",
+        "type": "Pants",
+        "place": "legs",
+        "id": 9
+    },
+    {
+        "name": "shoes",
+        "description": "shoes black and gray",
+        "image": "media/images/5bba9de73e0ac-59caa6e646d9a8327f0b84f0b679cca5.png",
+        "type": "Shoes",
+        "place": "feet",
+        "id": 10
+    },
+    {
+        "name": "Adidas Originals",
+        "description": "shoes black and gray",
+        "image": "media/images/adidas-originals-shoe-sneakers-adidas-yeezy-cardinal-shoes-f9a92c0292d1da965ee4c559fcc043cb.png",
+        "type": "Shoes",
+        "place": "feet",
+        "id": 11
+    },
+    {
+        "name": "Adidas",
+        "description": "shoes Pink and White",
+        "image": "media/images/adidas-shoe-sneakers-clip-art-women-shoes-23d4669f88731eac4fcc46f4382cbd98.png",
+        "type": "Shoes",
+        "place": "feet",
+        "id": 12
+    },
+    {
+        "name": "Baseball Cap",
+        "description": "cool Baseball Cap",
+        "image": "media/images/baseball-cap-baseball-cap-png-image-bae28c068910d007e56e9fc27e2ed6a1.png",
+        "type": "caps",
+        "place": "ras",
+        "id": 13
+    },
+    {
+        "name": "Cap",
+        "description": "cool Baseball Cap",
+        "image": "media/images/baseball-cap-hat-white-baseball-cap-png-image-a41637ef55770074d4257a84d708f135.png",
+        "type": "caps",
+        "place": "ras",
+        "id": 14
+    }
+]
